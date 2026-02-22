@@ -1,9 +1,27 @@
-<h1 align="center">Hi 👋, I'm Atharva Admile</h1>
-<h3 align="center"></h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Namaste+%F0%9F%99%8F%2C+I'm+Atharva+Admile+;AI%2FML+Engineer+%26+Python+Developer)](https://git.io/typing-svg)
+<!-- Social icons section -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvaadmile" alt="atharvaadmile" /></a> </p>
+<p align="center">
+  <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
 
-<p align="left"> <a href="https://twitter.com/atharva_admile" target="blank"><img src="https://img.shields.io/twitter/follow/atharva_admile?logo=twitter&style=for-the-badge" alt="atharva_admile" /></a> </p>
+**`Crafting Smart Systems(Developer/Innovator/Problem Solver)`**
+
+👋🏻 As an AI/ML Engineer at Thynktech India, my work centers around writing code that automates the mundane and solves complex problems. My technical journey is deeply rooted in Python and Generative AI, with a strong focus on building intelligent developer tools and modular systems. I am particularly passionate about exploring the boundaries of agentic workflows and applying AI to diverse sectors like FinTech and agriculture, with a long-term goal of driving architectural decisions for next-generation AI platforms.
+
+About me:
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
