@@ -1,3 +1,5 @@
+![cc](./assets//PinDown.io_@ameer_batashev_1771833074.gif)
+
 <!-- Typing Animation  -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Namaste+%F0%9F%99%8F%2C+I'm+Atharva+Admile+;AI%2FML+Engineer+%26+Python+Developer)](https://git.io/typing-svg)
 
@@ -23,13 +25,17 @@
 
 👋🏻 As an AI/ML Engineer at Thynktech India, my work centers around writing code that automates the mundane and solves complex problems. My technical journey is deeply rooted in Python and Generative AI, with a strong focus on building intelligent developer tools and modular systems. I am particularly passionate about exploring the boundaries of agentic workflows and applying AI to diverse sectors like FinTech and agriculture, with a long-term goal of driving architectural decisions for next-generation AI platforms.
 
-About me:
 
-- 🌱 I’m currently learning **Generative AI, Machine Learning, Agentic AI & Frameworks**
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
-- 📫 Feel Free to connect on: **atharvaadmile2704@gmail.com**
-
-- ⚡ Fun fact **I think I know coding**
+<!-- About Me -->
+<h3 align="left">💫 About Me</h3>
+<p>
+  🌱 I am currently working on and developing my programming skills.<br>
+  📫 Feel Free to connect : atharvaadmile2704@gmail.com.<br>
+  💬 Skills I acquire in programming languages such as Python, SQL, JAVA<br>
+  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+</p>
 
 
 <h3 align="left">Code with me:</h3>
