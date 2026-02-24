@@ -21,7 +21,7 @@
   </p>
 
 ---
-
+![](https://komarev.com/ghpvc/?username=AtharvaAdmile)
 
 **`Crafting Smart Systems(Developer / Innovator / Problem Solver)`**
 
